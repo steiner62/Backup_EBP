@@ -3,7 +3,7 @@ Script Powershell + bat pour copie de sauvegarde des fichiers écriture et compt
 
 
 # Conseils : 
-  - regrouper les fichier dans un même dossier.
+  - regrouper les fichier dans un même dossier nommé powershell.
   - ce dossier doit contenir obligatoirement les fichiers backupEBP.ps1, config.ini, run_powershell.bat et NOM_DOSSIER_COMPTABILITE.ebp (ce dernier n'est pas mis à disposition sur le github)
   
   
@@ -42,7 +42,7 @@ EN translation :
 Script Powershell + beats for backup of files and accounts before importing into EBP Accounting
 
 # Advice:
-    - Group the files in the same folder.
+    - Group the files in the same folder named powershell.
     - This folder must contain the files backupEBP.ps1, config.ini, run_powershell.bat and NOM_DOSSIER_COMPTABILITE.ebp (the latter is not available on the github)
 
 # The config.ini file
