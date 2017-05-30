@@ -28,8 +28,10 @@ Le script vérifie la présence des fichiers ecritures.txt et comptes.txt dans l
  - cloner dans un sous-dossier les fichiers du github
  - copier / coller dans ce même dossier le .ebp du dossier de comptabilité de votre client (on le trouve généralement dans Mes documents ou dans C:\Users\Administrateur\Documents)
  - Modifier le fichier config.ini selon vos besoins
+ - Modifier le fichier run_powershell.bat et run_powershell_DEBUG_MODE.bat pour éditer le chemin du script powershell
  - créer un raccourcie sur le bureau du fichier run_powershell.bat et changer son icône pour avoir l'icône d'EBP
  - faite un test de fonctionnement en créent des fichiers comptes.txt et ecritures.txt vide
  
  
- 
+# Licence
+Script à la disposition de tous seul contraite garder l'identité de son créateur dans l'entête du script
